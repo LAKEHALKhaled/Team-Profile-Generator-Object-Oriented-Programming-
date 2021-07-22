@@ -1,0 +1,29 @@
+{
+  "name": "Team-Profile-Generator-Object-Oriented-Programming-",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --verbose" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LAKEHALKhaled/Team-Profile-Generator-Object-Oriented-Programming-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LAKEHALKhaled/Team-Profile-Generator-Object-Oriented-Programming-/issues"
+  },
+  "homepage": "https://github.com/LAKEHALKhaled/Team-Profile-Generator-Object-Oriented-Programming-#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
